@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "cf81d8636608ec42bd1027eaf1bb3c91",
+    "revision": "da6afcdde63779b9071e995b717ed7fa",
     "url": "/index.html"
   },
   {
-    "revision": "63ff87912521d55b6031",
+    "revision": "2e18bc65b90950fb978e",
     "url": "/static/css/main.a7e4e0ad.chunk.css"
   },
   {
-    "revision": "2c89d090957a1f702734",
-    "url": "/static/js/2.a95e7865.chunk.js"
+    "revision": "5f918bd0afff9a00f681",
+    "url": "/static/js/2.e2f32645.chunk.js"
   },
   {
-    "revision": "63ff87912521d55b6031",
-    "url": "/static/js/main.44befff1.chunk.js"
+    "revision": "2e18bc65b90950fb978e",
+    "url": "/static/js/main.b58208b2.chunk.js"
   },
   {
     "revision": "f4163cc1361175add5e6",
@@ -48,12 +48,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/GoogleSans-Regular.b5c77a6a.ttf"
   },
   {
-    "revision": "216186974295299e2c8b84d972174cc1",
-    "url": "/static/media/Hassan_bin_sabit_high_school_logo.21618697.png"
+    "revision": "145a243e886e713c26f772ff8f5923f0",
+    "url": "/static/media/Hassan_bin_sabit_high_school_logo.145a243e.png"
   },
   {
-    "revision": "c67d564156610e082e3b8074961d54a2",
-    "url": "/static/media/Hassan_bin_sabit_logo.c67d5641.png"
+    "revision": "f8ae63e093d2ea6f35b1739605023f63",
+    "url": "/static/media/Hassan_bin_sabit_logo.f8ae63e0.png"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
@@ -66,10 +66,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "16559172ca1d4d552390b48f19e102ba",
     "url": "/static/media/address_image.16559172.svg"
-  },
-  {
-    "revision": "ac2281f1f8e5aaf5579c479f6e78cd63",
-    "url": "/static/media/animated_ashutosh.ac2281f1.png"
   },
   {
     "revision": "dcd6dee2bd7458a4a576dc131506fd83",
@@ -86,10 +82,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "cacbc42b661f39344af81c631d8d36a9",
     "url": "/static/media/cloud_infrastructure.cacbc42b.svg"
-  },
-  {
-    "revision": "fee92c18b1cfbd1faa704c51047f113d",
-    "url": "/static/media/codeInLogo.fee92c18.png"
   },
   {
     "revision": "0c6891ebe92610838c7b2974bb1b394c",
@@ -116,12 +108,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/digiskills_logo.fcc9e545.png"
   },
   {
-    "revision": "63f707f224c8a842ac928c36e3be879a",
-    "url": "/static/media/dsc_logo.63f707f2.png"
-  },
-  {
     "revision": "3bab7a9dc4324f1b2364d25a47fcfcf0",
     "url": "/static/media/education.3bab7a9d.svg"
+  },
+  {
+    "revision": "3da265871ce96586c85be50c35567481",
+    "url": "/static/media/elavopathway_log.3da26587.png"
   },
   {
     "revision": "a00ede3f70759480e81f14f203edaa51",
@@ -196,16 +188,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/fullstack.fce60807.svg"
   },
   {
-    "revision": "0ee7e8c9444cdfefc10f6d86e18b9b5b",
-    "url": "/static/media/gcp_logo.0ee7e8c9.png"
-  },
-  {
     "revision": "6eeb2e810d0fd9f3ca2dcd72de228e68",
     "url": "/static/media/github_logo.6eeb2e81.png"
-  },
-  {
-    "revision": "0c8a4c114ad00f7854e91550379b9b91",
-    "url": "/static/media/googleAssistant.0c8a4c11.jpg"
   },
   {
     "revision": "a6addc3fb6605480614b992ede8cd434",
@@ -220,28 +204,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/intel_logo.29152cf7.jpg"
   },
   {
-    "revision": "60ed0bd3f8b99ac1d29e74575f804aaa",
-    "url": "/static/media/iu_logo.60ed0bd3.png"
-  },
-  {
     "revision": "5b4a6449747ec61a6d9aa874f2a9ceba",
     "url": "/static/media/jsFramework.5b4a6449.svg"
-  },
-  {
-    "revision": "c597fbded5de799dfb9abc3fc4f1c26f",
-    "url": "/static/media/legato_logo.c597fbde.png"
   },
   {
     "revision": "83ac24fb968a474c6a63f7a4e9a8f62c",
     "url": "/static/media/manOnTable.83ac24fb.svg"
   },
   {
-    "revision": "069938a84edd6ebf383c318e9feb5d4c",
-    "url": "/static/media/muffito_logo.069938a8.png"
-  },
-  {
-    "revision": "95a12a2b8c3149cce2175679755c4b4d",
-    "url": "/static/media/nptel_logo.95a12a2b.png"
+    "revision": "24d7a631789f6583c1663af90d7a5b4a",
+    "url": "/static/media/meet_usama_logo.24d7a631.png"
   },
   {
     "revision": "5faf790badc18fa9030f94836ece1df1",
@@ -250,10 +222,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "b8ba948796d7ab532673c5ed2f315e74",
     "url": "/static/media/projects_image.b8ba9487.svg"
-  },
-  {
-    "revision": "71408db71465afd742233e4a96f06526",
-    "url": "/static/media/pwa.71408db7.png"
   },
   {
     "revision": "3f25c44bf7f337f8ce4de1bfa1e49a8d",
@@ -272,10 +240,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/talksCardBackAlt.3fa54242.svg"
   },
   {
-    "revision": "0993e3246bf5146154391a0afef79b03",
-    "url": "/static/media/tiktok_logo.0993e324.png"
-  },
-  {
     "revision": "290fb6ea8d277e25ebed51ac59ed3163",
     "url": "/static/media/ucdavis_logo.290fb6ea.png"
   },
@@ -284,7 +248,15 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ui_ux_design.d6363089.svg"
   },
   {
-    "revision": "608c6f4d98fb597c087db16b0cdce5e1",
-    "url": "/static/media/vu_logo.608c6f4d.png"
+    "revision": "8932b974cbb432b3697e63eec7a22331",
+    "url": "/static/media/urdu_novel_bank_logo.8932b974.png"
+  },
+  {
+    "revision": "7c8122237737711891105494436adf74",
+    "url": "/static/media/usman_pic.7c812223.png"
+  },
+  {
+    "revision": "c3fdf9edca7aa3f77720bb21cfc33913",
+    "url": "/static/media/vu_logo.c3fdf9ed.png"
   }
 ]);
